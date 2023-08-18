@@ -1,0 +1,19 @@
+body {
+    font-size: 18px;
+}
+h3 {
+    text-align: center;
+}
+p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.pdf {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+a {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
